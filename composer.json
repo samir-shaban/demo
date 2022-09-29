@@ -1,16 +1,13 @@
 {
     "name": "samirshaban/demo",
-    "description": "test",
-    "autoload": {
-        "psr-4": {
-            "Samirshaban\\Demo\\": "src/"
-        }
-    },
+    "description": "test it",
+    "license": "MIT",
     "authors": [
         {
             "name": "Samir Shaban",
             "email": "samirshaban@icloud.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {}
 }
