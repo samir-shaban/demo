@@ -1,0 +1,16 @@
+{
+    "name": "samirshaban/demo",
+    "description": "test",
+    "autoload": {
+        "psr-4": {
+            "Samirshaban\\Demo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Samir Shaban",
+            "email": "samirshaban@icloud.com"
+        }
+    ],
+    "require": {}
+}
